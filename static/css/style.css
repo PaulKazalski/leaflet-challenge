@@ -17,6 +17,7 @@ h1 {
 
 
 .legend {
+  width: 125px;
   padding: 10px;
   font-family: Sanchez, serif;
   font-size: 16px;
